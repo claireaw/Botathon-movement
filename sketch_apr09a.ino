@@ -88,7 +88,6 @@ void loop() {
 // DOWN: 0,-1
 // LEFT: -1,0 -1,1 -1,-1
 // RIGHT: 1,0 1,-1 1,1
-// TUPLE?
 
 // L/R Bumpers use T/F
 
