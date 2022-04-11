@@ -9,3 +9,5 @@ Using mecanum wheels, this code allows the robot to move via the cardinal direct
 *Reformat code to use functions instead of looping if statements.
 
 *Fix JSON so that bumper inputs and multiple simultaneous inputs can be used.
+
+*Fix bugs with existing inputs (these bugs will likelybe fixed when migrated to using functions, but some may persist afterwards).
